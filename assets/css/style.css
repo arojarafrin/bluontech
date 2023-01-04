@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .navbar-mobile {
-  position: fixed;
+  position: relative;
   overflow: hidden;
   top: 0;
   right: 0;
